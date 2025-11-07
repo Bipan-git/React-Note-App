@@ -4,8 +4,7 @@ A Simple react Note App where users can enter a note which want ot store init.
 
 ## Features
 
--can enter a note
-
+- can enter a note
 - update and delete the note
 
 ## Technologies Used
@@ -16,4 +15,7 @@ A Simple react Note App where users can enter a note which want ot store init.
 
 installation and setup
 Clone this repository
-``bash
+
+```bash
+git clone https://github.com/Bipan-git/React-Note-App.git
+```
